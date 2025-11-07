@@ -15,5 +15,5 @@ variable "ami_id" {
 
 variable "secret_name" {
   description = "Name of the AWS Secrets Manager secret"
-  default     = "sai459"
+  default     = "ashok"
 }
