@@ -1,4 +1,4 @@
-name: Terraform CI/CD with Approval1
+name: Terraform CI/CD with Approval12
 
 on:
   push:
